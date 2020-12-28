@@ -1,0 +1,6 @@
+c:\users\timuçin korkmaz\documents\visual studio 2013\Projects\kanbankasi\kanbankasi\bin\kanbankasi.dll.config
+c:\users\timuçin korkmaz\documents\visual studio 2013\Projects\kanbankasi\kanbankasi\bin\kanbankasi.dll
+c:\users\timuçin korkmaz\documents\visual studio 2013\Projects\kanbankasi\kanbankasi\bin\kanbankasi.pdb
+c:\users\timuçin korkmaz\documents\visual studio 2013\Projects\kanbankasi\kanbankasi\obj\Debug\kanbankasi.csprojResolveAssemblyReference.cache
+c:\users\timuçin korkmaz\documents\visual studio 2013\Projects\kanbankasi\kanbankasi\obj\Debug\kanbankasi.dll
+c:\users\timuçin korkmaz\documents\visual studio 2013\Projects\kanbankasi\kanbankasi\obj\Debug\kanbankasi.pdb
